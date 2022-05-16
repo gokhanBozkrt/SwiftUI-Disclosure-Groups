@@ -1,0 +1,173 @@
+[
+ {
+   "id": "CEDC6B48-B5E9-4D4E-8880-585182F372D1",
+   "name": "Vancouver",
+   "population": 662248,
+   "country": {
+      "name": "Canada",
+      "flag": "🇨🇦"
+   }
+},
+ {
+   "id": "BC84A240-541B-4CA5-8EC9-BD8F8FD907E0",
+   "name": "Toronto",
+   "population": 2794356,
+   "country": {
+      "name": "Canada",
+      "flag": "🇨🇦"
+   }
+},
+ {
+   "id": "F7F13679-867F-4AC4-8419-5F97D4A32E38",
+   "name": "Seattle",
+   "population": 3641000,
+   "country": {
+      "name": "United States",
+      "flag": "🇺🇸"
+   }
+},
+ {
+   "id": "A74BF43A-5909-48CE-88D7-4167BD90FDBA",
+   "name": "Denver",
+   "population": 2862000,
+   "country": {
+      "name": "United States",
+      "flag": "🇺🇸"
+   }
+},
+ {
+   "id": "BBD0E014-BA28-40D8-932B-9E12C63A9FA3",
+   "name": "Dallas",
+   "population": 6488000,
+   "country": {
+      "name": "United States",
+      "flag": "🇺🇸"
+   }
+},
+ {
+   "id": "9EB996F2-4BB0-4E7F-8754-3451B3F88B56",
+   "name": "London",
+   "population": 9002488,
+   "country": {
+      "name": "United Kingdom",
+      "flag": "🇬🇧"
+   }
+},
+ {
+   "id": "10EA8B48-F203-4E34-84A1-67F86E522CD0",
+   "name": "Edinburgh",
+   "population": 548206,
+   "country": {
+      "name": "United Kingdom",
+      "flag": "🇬🇧"
+   }
+},
+ {
+   "id": "7AE4888B-3AD8-4BF9-B9C8-1ED12AF0D09F",
+   "name": "Leeds",
+   "population": 1902000,
+   "country": {
+      "name": "United Kingdom",
+      "flag": "🇬🇧"
+   }
+},
+ {
+   "id": "B41659D1-C269-4D1B-A4AB-26D8DD4C64C1",
+   "name": "Kyiv",
+   "population": 3010209,
+   "country": {
+      "name": "Ukraine",
+      "flag": "🇺🇦"
+   }
+},
+ {
+   "id": "27325BEE-2376-49F3-AE2A-DD0C4EE6FA2D",
+   "name": "Odessa",
+   "population": 1015826,
+   "country": {
+      "name": "Ukraine",
+      "flag": "🇺🇦"
+   }
+},
+ {
+   "id": "6289C568-3659-4222-ABC6-1345535CC48A",
+   "name": "Kharkiv",
+   "population": 1433886,
+   "country": {
+      "name": "Ukraine",
+      "flag": "🇺🇦"
+   }
+},
+ {
+   "id": "B5A138D2-0C7B-405C-8DE7-A20250BDB43A",
+   "name": "Uppsala",
+   "population": 395026,
+   "country": {
+      "name": "Sweden",
+      "flag": "🇸🇪"
+   }
+},
+ {
+   "id": "6E2FBF9B-9816-4135-9755-B82082D65728",
+   "name": "Stockholm",
+   "population": 1657000,
+   "country": {
+      "name": "Sweden",
+      "flag": "🇸🇪"
+   }
+},
+ {
+   "id": "50394C72-5C1C-4220-9ADE-C14BCACA185E",
+   "name": "Malmo",
+   "population": 350647,
+   "country": {
+      "name": "Sweden",
+      "flag": "🇸🇪"
+   }
+},
+ {
+   "id": "983E25FA-3710-4918-AA81-23E038ADF48B",
+   "name": "Gothenburg",
+   "population": 617781,
+   "country": {
+      "name": "Sweden",
+      "flag": "🇸🇪"
+   }
+},
+ {
+   "id": "CBDCDDBE-04F6-4E74-8433-8F611BCA078E",
+   "name": "Paris",
+   "population": 11079000,
+   "country": {
+      "name": "France",
+      "flag": "🇫🇷"
+   }
+},
+ {
+   "id": "C390E71E-477C-455D-B1F0-9057AF6C2D5B",
+   "name": "Nice",
+   "population": 942000,
+   "country": {
+      "name": "France",
+      "flag": "🇫🇷"
+   }
+},
+ {
+   "id": "B5B8FFF7-2219-4422-8DEF-E4DFDBCE431E",
+   "name": "Marseille",
+   "population": 1614000,
+   "country": {
+      "name": "France",
+      "flag": "🇫🇷"
+   }
+},
+ {
+   "id": "F7EB41AF-950A-41A7-BE4B-16952D0EFAC5",
+   "name": "Lyon",
+   "population": 1734000,
+   "country": {
+      "name": "France",
+      "flag": "🇫🇷"
+   }
+}
+]
